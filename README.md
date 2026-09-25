@@ -82,6 +82,9 @@ Pizza-Sales-SQL-Analysis/
 └── dataset/
     └── pizza_sales.csv
 ```
+## Business Insights: The analysis identifies top-selling pizzas, popular sizes and categories, peak ordering hours, revenue contribution, and cumulative revenue trends.
+
+## Recommendations: Focus on high-performing pizzas, optimize inventory and staffing during peak hours, promote premium and high-revenue products, and review low-performing items to improve overall sales performance.
 
 ## 🚀 Conclusion
 
